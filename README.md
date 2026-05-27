@@ -253,3 +253,5 @@ MIT License — free to use, modify, and distribute.
 ---
 
 *Built with Streamlit · scikit-learn · Plotly*
+
+live demo:-https://abhishekgupta121-customer-churn-prediction-ml-app-oq7tiz.streamlit.app/
